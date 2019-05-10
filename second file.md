@@ -7,9 +7,10 @@
   * Item 2a
   * Item 2b
   
-* So, spaces are part of the code?
-  * Yes, they are!
-* Does one space work?
- * No, it does not!
+
+* This is no tab.
+ * This is one space.
+* This is no space.
   * This is two spaces.
-  * and this is tab.
+* This is no space.
+ * This is one tab.
