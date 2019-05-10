@@ -2,4 +2,4 @@
 
 how about __bold *italic* nested the other way__
 
-what about **bold *italic* **
+Notice that **bold asterisks *followed be italic asterisks*  do not work!**
